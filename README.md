@@ -9,3 +9,6 @@
 **Materia:**   Emplea Framework para el Desarrollo de Software
 
 **Correo:**    24308060610069@cetis61.edu.mx
+
+
+<img width="200" height="196" alt="yo" src="https://github.com/user-attachments/assets/448ad68e-b3b6-4fa3-b1be-f46b917948ba" />
